@@ -1,0 +1,7 @@
+echo "# guuute-laune-de" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Guuute-Laune-Daniel/guuute-laune-de.git
+git push -u origin main
